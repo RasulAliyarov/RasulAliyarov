@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer</h3>
 
 
-- 🌱 I’m currently learning fulsfull stack web development **ASР.NET CORE**
+- 🌱 I’m currently learning full stack web development **ASР.NET CORE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RasulAliyarov](https://github.com/RasulAliyarov)
 
